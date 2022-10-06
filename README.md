@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jermelliayoung
 - 👀 I’m interested in becoming a Web developer
 - 🌱 I’m currently learning Junior Web devops
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on up in coming projects with motoivated developers
 - 📫 How to reach me Jermelliayoung@yahoo.com or Jermelliayoung@gmail.com
 
 <!---
